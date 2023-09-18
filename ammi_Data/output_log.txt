@@ -1,0 +1,1073 @@
+Initialize engine version: 4.6.0b21 (bee422ec5c5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     112 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.245 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+Platform assembly: C:\Users\WQA IRFAN\Documents\New Unity Project 4\ammi_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'PQ_Skin' - Pass 'FORWARD' shader state not supported
+WARNING: Shader Unsupported: 'PQ_TransBlue' - Pass 'FORWARD' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+!"Adjacencies: found non-manifold mesh!"
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 785)
+
+Adjacencies::CreateDatabase: can't work on non-manifold meshes.
+ 
+(Filename: ..\..\Core\Common\src\IceAdjacencies.cpp Line: 786)
+
+createHull: convex hull computation failed!
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 53)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
+The hull has more than 255 polygons. This is invalid.
+ 
+(Filename: ..\..\Cooking\src\ConvexMeshBuilder.cpp Line: 547)
+
